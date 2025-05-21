@@ -1,1 +1,11 @@
 # practicas-sensores
+#### [Practica1](https://gist.github.com/DavidVargas20/65105b5b416cf2e46bcb58cc96215565)
+#### [Practica2](https://gist.github.com/DavidVargas20/9f8a2d2842f824b0b5af103cbf30995e)
+#### [Practica3](https://gist.github.com/DavidVargas20/2d4fe39c411621b1a8f350134debb6b8)
+#### [Practica4](https://gist.github.com/DavidVargas20/f72aed56b02c0cbcb089d047ebe43ce1)
+#### [Practica5](https://gist.github.com/DavidVargas20/614d82437853a282e7f4bb9622e2b5bf)
+#### [Practica6](https://gist.github.com/DavidVargas20/132eb120c6ca85bff67a11bcb731bfd0)
+#### [Practica7](https://gist.github.com/DavidVargas20/65105b5b416cf2e46bcb58cc96215565)
+#### [Practica8](https://gist.github.com/DavidVargas20/65105b5b416cf2e46bcb58cc96215565)
+#### [Practica9](https://gist.github.com/DavidVargas20/65105b5b416cf2e46bcb58cc96215565)
+#### [Practica10](https://gist.github.com/DavidVargas20/65105b5b416cf2e46bcb58cc96215565)
